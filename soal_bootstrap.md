@@ -366,7 +366,8 @@
 
     a.      btn-primary
 
-    **b.      btn-success **
+    **b.**  **btn-success **
+    
     c.       btn-warning 
     d.      btn-danger
 
@@ -472,7 +473,7 @@
 
    a. fas fa-square
 
-   **b. fas fa-circle**
+   **b.** **fas fa-circle**
 
    c. fas fa-laptop-code
 
@@ -532,7 +533,7 @@
 
    c.       pb-4
 
-   **d.      mb-4**
+   **d.**      **mb-4**
 
 5. Untuk mengatur agar letak text berada di tengah, kita bisa menggunakan class bawaan bootstrap di bawah ini ..
 
