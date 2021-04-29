@@ -294,7 +294,7 @@
 
 6. Untuk menghasilkan paragraf yang menonjol kita bisa menggunakan  class typografi di bawah ini ..
 
-   **a.**      **lead** 
+   **a.**   **lead** 
 
    b.      text-muted
 
@@ -428,7 +428,7 @@
 
 6. Class manakah yang menyediakan lebar 100%  atau mencakup seluruh lebar viewport untuk membuat  layout  di bootstrap?
 
-   **a.**      **container-fluid **
+   **a.**  **container-fluid **
    b.      container-fixed
 
    c.       container-100
