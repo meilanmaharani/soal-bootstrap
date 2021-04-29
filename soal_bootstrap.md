@@ -429,6 +429,7 @@
 6. Class manakah yang menyediakan lebar 100%  atau mencakup seluruh lebar viewport untuk membuat  layout  di bootstrap?
 
    **a.**  **container-fluid**
+   
    b.      container-fixed
 
    c.       container-100
