@@ -366,7 +366,7 @@
 
     a.      btn-primary
 
-    **b.**  **btn-success **
+    **b.**  **btn-success**
     
     c.       btn-warning 
     d.      btn-danger
