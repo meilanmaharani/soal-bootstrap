@@ -286,7 +286,7 @@
 
    a.      lead 
 
-   b.      **display heading, contoh display-1** 
+   **b.**      **display heading, contoh display-1** 
 
    c.       blockquote
 
@@ -428,7 +428,7 @@
 
 6. Class manakah yang menyediakan lebar 100%  atau mencakup seluruh lebar viewport untuk membuat  layout  di bootstrap?
 
-   **a.      container-fluid **
+   **a.**      **container-fluid **
    b.      container-fixed
 
    c.       container-100
@@ -467,7 +467,7 @@
 
    c. fa-stack
 
-   **d. fa-stack-1x**
+   **d.** **fa-stack-1x**
 
 4. Manakah di bawah ini yang menampilkan icon lingkaran dari font awesome ?
 
@@ -481,7 +481,7 @@
 
 5. Class  `text-white` yang kita tambahkan pada  `<i class="fas fa-list-ol fa-stack-1x text-white"></i>` berfungsi untuk apa ?
 
-   **a. menampilkan icon dengan warna putih**
+   **a.** **menampilkan icon dengan warna putih**
 
    b. menampilkan icon dengan background warna putih
 
@@ -639,7 +639,7 @@
 
    b.      body
 
-   **c.       footer**
+   **c.**       **footer**
 
    d.      semua salah
 
@@ -651,7 +651,7 @@
 
    c.       btn-secondary
 
-   **d.    button-sekunder**
+   **d.**    **button-sekunder**
 
 
 
@@ -663,7 +663,7 @@
 
    a. biru
 
-   **b. terang** 
+   **b.** **terang** 
 
    c. gelap
 
@@ -671,7 +671,7 @@
 
 2. Manakah class yang  tepat  untuk membagi  layout menjadi 2 kolom dengan lebar yang sama pada sistem grid ?
 
-   **a.      col-6** 
+   **a.**      **col-6** 
 
    b.      col-3
 
@@ -691,7 +691,7 @@
 
 4. Untuk menghilangkan margin dan padding pada kolom di section about-us, kita bisa tambahkan class..
 
-   **a. no-gutters** 
+   **a.** **no-gutters** 
 
    b. gx-5
 
@@ -715,7 +715,7 @@
 
 1. Untuk mengatur paragraf agar rata kiri kanan atau justify, kita bisa tambahkan style ..
 
-   **a. text-align: justify;**
+   **a.** **text-align: justify;**
 
    b. text-align: center;
 
@@ -725,7 +725,7 @@
 
 2. mt-3 pada judul di about us digunakan untuk mengatur..
 
-   **a.  margin atas**
+   **a.**  **margin atas**
 
    b. margin bawah
 
@@ -735,7 +735,7 @@
 
 3. Untuk mengatur warna text menjadi putih pada tombol, class bawaan bootstrap mana yang dapat kita gunakan?
 
-   **a. text-white**
+   **a.** **text-white**
 
    b. txt-white
 
@@ -793,7 +793,7 @@
 
    a.bg-dark 
 
-   **b. bg-light** 
+   **b.** **bg-light** 
 
    c. bg-success
 
@@ -803,7 +803,7 @@
 
    a.text-dark
 
-   **b. text-light**  
+   **b.** **text-light**  
 
    c. text-info
 
@@ -811,7 +811,7 @@
 
 4. Class yang menghasilkan warna teks gelap / hitam adalah :
 
-   **a.text-dark** 
+   **a.** **text-dark** 
 
    b. text-light  
 
