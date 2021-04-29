@@ -150,7 +150,7 @@
 
    d.      Pada section contact us.
 
-3. Pada halaman landing page, di mana sebaiknya kita menampilkan menu-menu website?
+2. Pada halaman landing page, di mana sebaiknya kita menampilkan menu-menu website?
 
    **a.**      **navigasi bar**
 
@@ -160,7 +160,7 @@
 
    d.      di bagian footer
 
-4. Untuk membuat navigasi bar di bootstrap, kita dapat menggunakan class ..
+3. Untuk membuat navigasi bar di bootstrap, kita dapat menggunakan class ..
 
    a.      btn
 
@@ -170,7 +170,7 @@
 
    d.      card
 
-5. Berikut ini standar untuk pembuatan navigasi bar ..
+4. Berikut ini standar untuk pembuatan navigasi bar ..
 
    a.      **<nav class="navbar navbar-expand-lg>** 
 
@@ -180,7 +180,7 @@
 
    d.      <nav class="navbar nav>
 
-6. Untuk memberikan warna background gelap, kita bisa menggunakan class ..
+5. Untuk memberikan warna background gelap, kita bisa menggunakan class ..
 
    **a.**      **bg-dark**
 
@@ -190,7 +190,7 @@
 
    d.      bg-info
 
-7. Manakah class di bawah ini yang digunakan untuk  mengelompokkan dan menyembunyikan elemen navbar ketika beralih media atau layar ..
+6. Manakah class di bawah ini yang digunakan untuk  mengelompokkan dan menyembunyikan elemen navbar ketika beralih media atau layar ..
 
    a.      fixed-top
 
@@ -200,7 +200,7 @@
 
    d.      navbar-toggler
 
-8. Class bawaan bootstrap yang tepat untuk elemen **`<li>`** pada navbar adalah ..
+7. Class bawaan bootstrap yang tepat untuk elemen **`<li>`** pada navbar adalah ..
 
    a.      collapse navbar-collapse
 
@@ -210,7 +210,7 @@
 
    d.      navbar-toggler
 
-9. Sedangkan Class bawaan bootstrap yang tepat untuk elemen **`<a>`** pada navbar adalah ..
+8. Sedangkan Class bawaan bootstrap yang tepat untuk elemen **`<a>`** pada navbar adalah ..
 
    a.      navbar-toggler
 
@@ -220,7 +220,7 @@
 
    **d.**      **nav-link** 
 
-10. Class  yang mengatur agar navigasi bar tetap berada di bagian atas walaupun kita melakukan scroll ke bawah  adalah..
+9. Class  yang mengatur agar navigasi bar tetap berada di bagian atas walaupun kita melakukan scroll ke bawah  adalah..
 
    a.      container
 
@@ -230,7 +230,7 @@
 
    d.      navbar-toggler
 
-11. Class bawaan bootstrap 4 untuk menampilkan logo adalah..
+10. Class bawaan bootstrap 4 untuk menampilkan logo adalah..
 
     a.      container
 
